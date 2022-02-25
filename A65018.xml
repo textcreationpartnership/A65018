@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vindication of Judge Jenkins prisoner in the Tower, the 29. of Aprill, 1647</title>
+            <author>Jenkins, David, 1582-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65018</idno>
+            <idno type="STC">Wing V479A</idno>
+            <idno type="STC">ESTC R202708</idno>
+            <idno type="EEBO-CITATION">12875622</idno>
+            <idno type="OCLC">ocm 12875622</idno>
+            <idno type="VID">94826</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65018)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94826)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 902:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vindication of Judge Jenkins prisoner in the Tower, the 29. of Aprill, 1647</title>
+                  <author>Jenkins, David, 1582-1663.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Signed: David Jenkins.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jenkins, David, 1582-1663.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:94826:1"/>
+            <!-- PDF PAGE 79 -->
+            <pb n="1" facs="tcp:94826:1"/>
+            <!-- PDF PAGE 79 -->
+            <head>THE VINDICATION OF JUDGE JENKINS Priſoner in the TOVVER, <date>the 29. of Aprill, 1647.</date>
+            </head>
+            <p>I Was convened upon Saturday the 10. of this moneth of Aprill before a Committee of the Houſe of Commons, wherein Maſter <hi>Corbet</hi> had the Chaire; and I was there to be examined upon ſome Queſtions then to be propounded to me; to which Queſtions I refuſed to give any o<g ref="char:EOLhyphen"/>ther anſwer then that which was ſet downe in a paper I then delivered to the ſaid M. <hi>Corbet,</hi> which followeth in theſe words:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>I ſtand committed by the Houſe of Commons for high Treaſon, for not acknowledg<g ref="char:EOLhyphen"/>ing, nor obeying the power of the two Houſes, by adhering to the King in this War. I deny this to be Treaſon for the ſupreame and only power, by the Lawes of this Land is in the King. If I ſhould ſubmit to any examination derived from your Power, which by the Negative Oath ſtands in op<g ref="char:EOLhyphen"/>poſition to the Kings Power, I ſhould confeſſe the Power to be in you, and ſo condemne my ſelfe for
+<pb n="2" facs="tcp:94826:2"/>
+                           <!-- PDF PAGE 80 -->
+a Traitour, which I neither ought nor will do.</p>
+                        <p>I am ſworne to obey the King, and the Laws of this Land: you have not power to examine me by thoſe Laws, by the Kings Writ, Pattent, or Com<g ref="char:EOLhyphen"/>miſſion; if you can produce either thereof, I will anſwer the queſtions you ſhall propound; other<g ref="char:EOLhyphen"/>wiſe I cannot anſwer thereto, without the breach of my Oath, and the violation of the Laws, which I will not do to ſave my life.</p>
+                        <p>You your ſelves, all of you this Parliament, have ſworne that the King is our only and ſupreame Governour: your Proteſtation, your Vow and Covenant, your ſolemne League and Covenant, your Declarations, all of them publiſh to the Kingdome, that your ſcope is the maintenance of the Laws; thoſe Laws are and muſt be derived to us, and enlivened by the only ſupreame Gover<g ref="char:EOLhyphen"/>nour, the Fountaine of juſtice, and the life of the Law, the King. The Parliaments are called by his writs; the Judges ſit by his Pattents, ſo of all o<g ref="char:EOLhyphen"/>ther Officers; the Cities and Towns corporate, governe by the Kings Charters; and therefore ſince by the Law I cannot be examined by you, without a power derived by His Majeſty, I neither can, nor will, nor ought you to examine me upon any queſtions. But if as private Gentlemen, you ſhall be pleaſed to aske me any queſtions, I ſhall really and truly anſwer every ſuch queſtion, as you ſhall demand.</p>
+                        <closer>
+                           <dateline>
+                              <date>Aprill 10. 1647.</date>
+                           </dateline>
+                           <signed>David Ienkins.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="3" facs="tcp:94826:2"/>
+               <!-- PDF PAGE 80 -->This paper hath been miſ-repreſented to the good people of this Citie by a Printed one, ſtyling it my Recantation, which I owne not; and beſides is in it ſelfe repugnant (juſt like theſe times) the Body falls out with the Head. To vindicate my ſelfe from that Recantation, and to publiſh to the world the reali<g ref="char:EOLhyphen"/>tie of the Paper then delivered to Mr. <hi>Corbet,</hi> and the matter therein contained, I have publiſhed this enſu<g ref="char:EOLhyphen"/>ing diſcourſe.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <p>No perſon who hath committed Treaſon, Mur<g ref="char:EOLhyphen"/>der, or Felony, hath any aſſurance at all for ſo much as one houre of life, Lands or Goods, without the Kings gracious pardon, 27 <hi>Hen.</hi> 8. <hi>Cap,</hi> 24.</p>
+                        <p>The King is not vertually in the two Houſes at <hi>Weſtminſter,</hi> whereby they may give any aſſurance at all to any perſon, in any thing, for any ſuch of<g ref="char:EOLhyphen"/>fence.</p>
+                        <p n="1">1. The Houſe of Commons hath declared to the Kingdome in their Declaration of the 28 of <hi>No<g ref="char:EOLhyphen"/>vember</hi> laſt to the <hi>Scots</hi> Papers, <hi>pag.</hi> 8. <hi>That the King at this time is not in a condition to governe.</hi> No perſon or thing can derive a vertue to other men, or things, which it ſelfe hath not: and therefore it is impoſſible that they ſhould have a vertue from the King to go<g ref="char:EOLhyphen"/>verne, which they declare he hath not himſelfe to give.</p>
+                        <p n="2">2. The Law of the Land is,<note place="margin">5. <hi>Elizab. Cap.</hi> 1.</note> 
+                           <hi>That no perſon in any Parliament hath a voice in the Houſe of Commons, but that he ſtands a perſon to all intents and purpoſes as if he had never beene elected or returned, if before he ſit in the Houſe, he take not his Oath upon the holy Evangeliſts, that the Kings Majeſtie is the onely and ſupream Gover<g ref="char:EOLhyphen"/>nour
+<pb n="4" facs="tcp:94826:3"/>
+                              <!-- PDF PAGE 81 -->
+over all perſons in all Cauſes.</hi> All the Members of the ſaid Houſe have taken it, and at all times as they are returned doe take it; otherwiſe they have no colour to intermeddle with the publicke Affaires. How doth this Solemne and Legall Oath agree with their ſaid Declaration, <hi>That the King is in no conditi<g ref="char:EOLhyphen"/>on to governe?</hi> By the one it is ſworne, He is the one<g ref="char:EOLhyphen"/>ly ſupreame Governour; by the other, that he is not in a condition to governe.</p>
+                        <p n="3">3. The Oath is not, that the King was, or ought to be, or had beene, before he was ſeduced by ill Councell, our onely and ſupreame Governour in all Cauſes, over all perſons; but in the preſent tenſe, that he is our onely and ſupreame Governour, at this preſent, in all Cauſes and over all perſons. So they the ſame perſons ſweare one thing, and de<g ref="char:EOLhyphen"/>clare to the Kingdom the contrary of the ſame thing, at the ſame time, in that which concerneth the weale of all this Nation.</p>
+                        <p n="4">4. The Miniſters in the Pulpits doe not ſay, what they ſweare in the Houſe of Commons. Who ever heard ſithence this unnaturall Warre, any of their Presbyters attribute that to his Majeſtie which they ſweare? The reaſon is, their Oath is taken at <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> amongſt themſelves: that which their Mi<g ref="char:EOLhyphen"/>niſters pray and preach, goes amongſt the people. To tell the people that the King is now their onely and ſupreame Governour in all Cauſes, is contrary to that the Houſes doe now practiſe, and to all they act and maintaine. They, the two Houſes forſooth, are the onely and ſupreame Governours in default of the King, for that he hath left his great Councell,
+<pb n="5" facs="tcp:94826:3"/>
+                           <!-- PDF PAGE 81 -->
+and will not come to them, and yet the King deſires to come, but they will not ſuffer him, but keepe him priſoner at <hi>Holmby:</hi> ſo well doe their Actions and Oaths agree.</p>
+                        <p n="5">5. They ſweare now King <hi>Charles</hi> is their onely and ſupreme Governour; but with a reſolution at the time of the Oath taking, and before and after, that he ſhall not be onely or ſupreme Governour, or onely and ſupreme, but not any Governour at all: For there is no point of Government, but for ſome yeares paſt they have taken to themſelves, and uſed his name onely, to abuſe and deceive the people.</p>
+                        <p n="6">6. That this vertuall power is a meere fiction, their Propoſitions ſent to <hi>Oxford,</hi> to <hi>Newcaſtle,</hi> to be ſigned by the King, doe prove it ſo. What needs this adoe, if they have the vertuall Power with them at <hi>Weſtminſter.</hi>
+                        </p>
+                        <p n="7">7. To affirme that the Kings power (which is the vertue they talke of) is ſeparable from his perſon, is high Treaſon by the Law of the Land; which is ſo declared by that learned man of the Law, Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Cooke;</hi> ſo much magnified by this preſent Par<g ref="char:EOLhyphen"/>liament, who in the 7 part of his Reports in <hi>Cal<g ref="char:EOLhyphen"/>vins</hi> caſe, fol. 11. ſaith thus. <hi>In the reigne of Edward the ſecond, the Spencers, the Father and Son, to cover the Treaſon hatched in their hearts, invented this damna<g ref="char:EOLhyphen"/>ble and damned opinion, that homage and Oath of Lige<g ref="char:EOLhyphen"/>ance was more by reaſon of the Kings Crowne, (that is, of his politicke capacity) then by reaſon of the perſon of the King upon which opinion they inferred</hi> 3. <hi>execrable and detestable conſequences.</hi> 1. <hi>If the King doe not de<g ref="char:EOLhyphen"/>meane himſelfe by reaſon in the right of his Crowne, his
+<pb n="6" facs="tcp:94826:4"/>
+                              <!-- PDF PAGE 82 -->
+lieges are bound by Oath to remove the King.</hi> 2. <hi>ſeeing that the King could not be reformed by ſuit of Law, that ought to be done</hi> per aſpertee <hi>that is by force.</hi> 3. <hi>That his lieges be bound to governe in aid of him, and in de<g ref="char:EOLhyphen"/>fault of him: All which were condemned by two Parlia<g ref="char:EOLhyphen"/>ments, one in the raigne of</hi> Edw. 2. <hi>called</hi> exilium Hu<g ref="char:EOLhyphen"/>gonis le Spencer; and the other in Anno 1. <hi>Edw.</hi> 3. <hi>cap.</hi> 2.</p>
+                        <p>And that the naturall body and politicke makes one indiviſible body, and that theſe two bodies in<g ref="char:EOLhyphen"/>corporate in one perſon make one body, and nor di<g ref="char:EOLhyphen"/>vers, is reſolved as the Law of <hi>England.</hi> 4. <hi>Eliz. Ploydon</hi> Com. fol. 213. by Sir <hi>Cobert Catlin,</hi> Lord Chiefe Juſtice of <hi>England,</hi> Sir <hi>Iames Dier,</hi> Lord chiefe Juſtice of the Common Pleaſe, the Lord <hi>San<g ref="char:EOLhyphen"/>ders,</hi> Lord Chiefe Baron of the <hi>Exchequer,</hi> and by the reſt of the Judges, <hi>viz.</hi> Juſtice <hi>Raſtall,</hi> Juſtice <hi>Browne,</hi> Juſtice <hi>Corbet,</hi> Juſtice <hi>Weſton,</hi> Baron <hi>Fre<g ref="char:EOLhyphen"/>vyll, Conne</hi> and <hi>Pewdrell,</hi> Sergeant <hi>Gerrard</hi> Atturny Generall; <hi>Carell Atturry</hi> of the <hi>Dutch: Plowdon</hi> the learnedeſt man of that age, in the knowledge of the Law, and Cuſtomes of the Realm.</p>
+                        <p n="8">8. The Law in all ages without any controverſie is and hath beene: That <hi>no Act of Parliament bindes the Subjects of this Land without the aſſent of the King, either for Perſon,</hi>
+                           <note place="margin">
+                              <hi>9.</hi> Hen. <hi>3.</hi> Magna Charta. So in every age till this day, &amp; in every Kings time, as ap<g ref="char:EOLhyphen"/>peares by the Acts in Print <hi>1</hi> part of the Inſtit Sect. <hi>234.</hi> in fine where many of the Law-Bookes are cited. <hi>7</hi> Hen. <hi>7. 14. 12.</hi> of Hen. <hi>7. 20.</hi>
+                           </note> 
+                           <hi>Lands, Goods, or Fame.</hi> No man can ſhew any ſillable, letter, or line to the contrary in the bookes of the Law, or printed Acts of Parlia<g ref="char:EOLhyphen"/>ment, in any age in this Land. If the vertuall Pow<g ref="char:EOLhyphen"/>er be in the Houſes, there needes no aſſent of the Kings. The ſtiles of the Acts printed from 9. <hi>Hen.</hi> 3. to 1. <hi>Hen.</hi> 7. were either, <hi>The King ordaines at his
+<pb n="7" facs="tcp:94826:4"/>
+                              <!-- PDF PAGE 82 -->
+Parliament,</hi> &amp;c. or the King ordaineth by the ad<g ref="char:EOLhyphen"/>vice of his Prelates and Barons, and at the humble Petition of the Commons, &amp;c. In <hi>Hen.</hi> 7. his time the Stile altered, and hath ſithence continued thus, It is ordained by the Kings Majeſty, &amp; the Lords ſpirituall and temporall, and Commons in this preſent Parliament aſſembled. So that always the Aſſent of the King giveth the life to all, as the ſoul to the body; and therefore our Law-Bookes call the King, the Fountaine of Juſtice, and the life of the Law.</p>
+                        <p n="9">9. Mercy as well as Juſtice belongs by the law of the Land only to the King.<note place="margin">
+                              <hi>2</hi> Hen. <hi>4.</hi> Cap. <hi>22. 4</hi> pars in<g ref="char:EOLhyphen"/>ſtit. <hi>42.</hi> Mr. Prin in his Trea<g ref="char:EOLhyphen"/>tiſe of the great Seale Fol. <hi>17. 27.</hi> Hen. <hi>8. <gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </hi> Chap. <hi>24.</hi>
+                           </note> This is confeſſed by Mr. <hi>Prynn,</hi> and it is ſo without any queſtion: The King can only pardon, and never more cauſe to have ſufficient pardons then in ſuch troubleſome times as theſe, and God ſend us pardons &amp; peace. None can give any pardon, but the King by the Law of the Land: <hi>the whole and ſole power of pardo<g ref="char:EOLhyphen"/>ning Treaſons and Felonies belongs to the King,</hi> are the words of the Law, and it is a deluſion to take it from any other and utterly invalid. 27. H. 8. Cap. 24.</p>
+                        <p n="10">10. Queen <hi>Elizabeth</hi> ſummoned her firſt Par<g ref="char:EOLhyphen"/>liament, to be held the 23 of Jan. in the firſt yeare of her Majeſties Raigne. The Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled by force of the ſame writ, the 23 day the Queene fell ſicke and could not appeare in her perſon in Parliament that day, and therefore prorogued it untill the 25. of the ſame Month of January. <hi>Reſolved by all the Iudges of</hi> England,<note place="margin">
+                              <hi>3</hi> of Eliz. Dier. <hi>203.</hi>
+                           </note> 
+                           <hi>that the Parliament began not the day of the returne of the writ, viz. the</hi> 23 <hi>of Ianuary, when the Lords and
+<pb n="8" facs="tcp:94826:5" rendition="simple:additions"/>
+                              <!-- PDF PAGE 83 -->
+Commons appeared, but the</hi> 25 <hi>of the ſaid moneth when the King came in perſon:</hi> which ſheweth evi<g ref="char:EOLhyphen"/>dently that this virtuall preſence is a meere delu<g ref="char:EOLhyphen"/>ding fiction that hath no ground in Law, reaſon, or ſenſe. They have the King now a priſoner at <hi>Holmby,</hi> with guards upon him, and yet they go<g ref="char:EOLhyphen"/>verne by the vertuall Power of their Priſoner. Theſe are ſome few of the cauſes &amp; reaſons which moved me to deliver that paper to M. <hi>Corbet,</hi> which I am ready to juſtifie with my life, and ſhould hold it a great honour to die for the hono<g ref="char:EOLhyphen"/>rable and holy Lawes of the Land: That which will ſave this Land from deſtruction, is an Act of Oblivion, and His Majeſties gracious generall pardon, the Souldiers their Arriers, and every man his owne, and Truth and Peace eſtabliſhed in the Land, and a favourable regard had to the ſa<g ref="char:EOLhyphen"/>tisfaction of tender Conſciences.</p>
+                        <closer>
+                           <dateline>
+                              <date>Aprill 29. 1647.</date>
+                           </dateline>
+                           <signed>David Ienkins.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:94826:5"/>
+            <!-- PDF PAGE 83 -->
+         </div>
+      </body>
+   </text>
+</TEI>
